@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-flask = "^2.2.2"
+flask = "^2.2.5"
 mysql-connector-python = "^8.0.31"
 mysqlclient = "^2.1.1"
 types-mysqlclient = "^2.1.5.1"
